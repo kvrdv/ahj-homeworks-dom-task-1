@@ -20,6 +20,8 @@
     // допускает вывод в консоль
     "no-console": "off",
 
+    "no-return-assign": "off",
+
     "no-restricted-syntax": ["error", "LabeledStatement", "WithStatement"],
 
     // допускает знаки
